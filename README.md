@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Doubly Linked List – Java Implementation
 
 A Java implementation of a Doubly Linked List demonstrating insertion, deletion, and forward/backward traversal.  
@@ -67,7 +66,6 @@ Each node stores:
 - 'previous' — pointer to previous node  
 
 ---
-=======
+
 # Processing-data-using-Doubly-Linked-List
 Processing data using Doubly Linked List 
->>>>>>> 14e5609dfb36ad2bcfa452cc94be905b0933d934
